@@ -1,0 +1,22 @@
+p{
+	color: gray;
+}
+img{
+	width: ;
+	height: ;
+	float: left;
+	box-sizing: border-box;
+}
+
+.static{
+	position: static;
+}
+
+.relative{
+	position: relative;
+	left: -220px;
+	top: 35px;
+	z-index: 10;
+	height: 22%;
+	width: 22%;
+}
