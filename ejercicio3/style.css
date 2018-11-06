@@ -1,0 +1,65 @@
+.relative{
+	    		position: relative;
+	    		width: 50%; 
+	    		height: 400px; 
+	    		background-color: red;
+	    	}
+	    	.absolute{
+	    		position: absolute; 
+	    		top: 0px;
+	    		width: 25%;
+	    	    height: 200px;
+	    	    background-color: yellow;
+
+
+	    	}
+
+
+.box{
+	height: 200px;
+	width: 300px;
+	margin: 20px;
+	background-color: red;
+	position: static; 
+	float:left; 
+	text-align: left;
+}
+
+.box2{
+	height: 100px;
+	width: 300px;
+	margin-left: -320px;
+	background-color: yellow;
+	position: static; 
+	float:left; 
+	margin-top: 70px;
+}
+
+.box3{
+	height: 20px;
+	width: 300px;
+	margin-left: -320px;
+	background-color: white;
+	position: static; 
+	float:left; 
+	margin-top: 110px;
+}
+
+.box4{
+	height: 200px;
+	width: 20px;
+	margin-left: -230px;
+	margin-top: 20px;
+	background-color: white;
+	position: static; 
+	float: left; 
+}
+.banderas{
+		text-align: center;
+	    color: black;
+	    float: left;
+	    padding-left;
+	    margin-top: 0px;
+	    margin-left: 0px;
+	    margin-right: 0px;
+}
