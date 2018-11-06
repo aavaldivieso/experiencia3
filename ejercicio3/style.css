@@ -13,7 +13,16 @@
 
 
 	    	}
-
+p{
+	position: static; 
+	clear:left;
+	float:left; 
+	text-align: left;
+	margin-left: 0px;
+	margin-top: 220px;
+	margin-right: 100px;
+	margin-bottom: 20px;
+}
 
 .box{
 	height: 200px;
@@ -23,12 +32,13 @@
 	position: static; 
 	float:left; 
 	text-align: left;
+	border: solid 1px black;
 }
 
 .box2{
 	height: 100px;
-	width: 300px;
-	margin-left: -320px;
+	width: 300.5px;
+	margin-left: -321px;
 	background-color: yellow;
 	position: static; 
 	float:left; 
@@ -36,9 +46,9 @@
 }
 
 .box3{
-	height: 20px;
+	height: 20.5px;
 	width: 300px;
-	margin-left: -320px;
+	margin-left: -320.5px;
 	background-color: white;
 	position: static; 
 	float:left; 
@@ -46,14 +56,69 @@
 }
 
 .box4{
-	height: 200px;
+	height: 200.5px;
 	width: 20px;
 	margin-left: -230px;
-	margin-top: 20px;
+	margin-top: 20.5px;
 	background-color: white;
 	position: static; 
 	float: left; 
 }
+
+.box5{
+	height: 66.6px;
+	width: 225px;
+	margin-left: -246px;
+	background-color: green;
+	position: static; 
+	float:left; 
+	margin-top: 21px;
+}
+
+.box6{
+	height: 66.6px;
+	width: 225px;
+	margin-left: -246px;
+	background-color: white;
+	position: static; 
+	float:left; 
+	margin-top: 88px;
+}
+
+.box7{
+	height: 66.6px;
+	width: 225px;
+	margin-left: -246px;
+	background-color: black;
+	position: static; 
+	float:left; 
+	margin-top: 154.5px;
+}
+
+.box8{
+	height: 200px;
+	width: 300px;
+	margin: 20px;
+	background-color: white;
+	position: static; 
+	float:left; 
+	text-align: left;
+	border: solid 1px black;
+}
+
+.circle{
+	height: 80px;
+	width: 80px;
+	margin: 20px;
+	margin-top: 80px;
+	margin-left: -210px;
+	background-color: red;
+	position: static; 
+	float:left; 
+	text-align: left;
+	border-radius: 50%
+}
+
 .banderas{
 		text-align: center;
 	    color: black;
