@@ -10,9 +10,8 @@
 	    		width: 25%;
 	    	    height: 200px;
 	    	    background-color: yellow;
-
-
 	    	}
+
 p{
 	position: static; 
 	clear:left;
@@ -21,7 +20,7 @@ p{
 	margin-left: 0px;
 	margin-top: 220px;
 	margin-right: 100px;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 
 .box{
