@@ -1,0 +1,30 @@
+body{
+
+}
+
+.box{
+	height: 100px;
+	padding: 80px;
+	width: calc(25% - 10px);
+	margin: 5px;
+	background-color: white;
+	box-sizing: border-box;
+	position: static; 
+	float:left; 
+	text-align: justify;
+
+}
+.fixed {
+position: fixed;
+
+}
+ul.navbar{
+	background-color: black;
+	height: 100px;
+	width: 300%;
+	list-style-type: none;
+}
+ul.navbar li{
+	float: left; padding: 50px;
+	color: white;
+}
