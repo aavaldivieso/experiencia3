@@ -1,0 +1,13 @@
+.fixed {
+	top: 0;
+	left: 90em;
+	position: fixed;
+}
+.relative {
+	position: relative;
+	float: right;
+}
+
+.absolute {
+	position: absolute
+}
